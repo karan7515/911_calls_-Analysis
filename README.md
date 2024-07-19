@@ -1,2 +1,4 @@
 # 911_calls_data_Analysis
-Analyzed and visualized the 911 calling data with the help of python libraries to answer different questions related to it.
+Analyzed a public dataset containing employee information using SQL, and stored the results in Excel, where I performed further statistical analysis of the data.
+Visualized the findings using Tableau to create an insightful and interactive dashboard.
+
