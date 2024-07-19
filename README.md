@@ -1,4 +1,5 @@
 # 911_calls_data_Analysis
-Analyzed a public dataset containing employee information using SQL, and stored the results in Excel, where I performed further statistical analysis of the data.
-Visualized the findings using Tableau to create an insightful and interactive dashboard.
+Analyzed this Kaggle dataset by addressing various research questions, and extracting meaningful insights. Created interactive visualizations and graphs to effectively present the findings.
+Utilized Python libraries such as NumPy, Pandas, Matplotlib & seaborn
+
 
